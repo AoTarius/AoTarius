@@ -1,5 +1,15 @@
 # 🌸Hi ~ I'm AoTarius
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/AoTarius/AoTarius"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/AoTarius/AoTarius/graphs/contributors"><img src="https://img.shields.io/github/contributors/AoTarius/AoTarius?color=blue"></a>
+    <a href="https://github.com/AoTarius/AoTarius/stargazers"><img src="https://img.shields.io/github/stars/AoTarius/AoTarius.svg?logo=github"></a>
+    <a href="https://github.com/AoTarius/AoTarius/network/members"><img src="https://img.shields.io/github/forks/AoTarius/AoTarius.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AoTarius.AoTarius" alt="visitors"/>   
+</p>
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
