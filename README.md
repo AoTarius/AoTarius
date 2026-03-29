@@ -84,7 +84,6 @@
   </picture>
 </div>
 
-[![LeetCode](https://leetcode.card.workers.dev/AoTarius?theme=dark&site=cn)](https://leetcode.cn/u/AoTarius/)
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-AoTarius-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.cn/u/AoTarius/)
 
 <div align="center" style="margin: 20px 0; width: 100%;">
