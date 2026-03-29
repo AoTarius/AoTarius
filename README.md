@@ -72,7 +72,7 @@
   </a>  
 </div>
 
-
+---
 <div align="center" style="margin: 20px 0; width: 100%;">
   <picture>
     <!-- 深色主题显示深色版贪吃蛇 -->
@@ -81,5 +81,19 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AoTarius/AoTarius/main/dist/github-contribution-grid-snake.svg">
     <!-- 兜底显示浅色版 -->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AoTarius/AoTarius/main/dist/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
+</div>
+
+[![LeetCode](https://leetcode.card.workers.dev/AoTarius?theme=dark&site=cn)](https://leetcode.cn/u/AoTarius/)
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-AoTarius-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.cn/u/AoTarius/)
+
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <!-- 深色主题显示深色版 LeetCode 绿墙 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AoTarius?ext=heatmap&theme=dark&site=cn">
+    <!-- 浅色主题显示浅色版 LeetCode 绿墙 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AoTarius?ext=heatmap&theme=light&site=cn">
+    <!-- 兜底显示浅色版 -->
+    <img alt="leetcode contribution heatmap" src="https://leetcard.jacoblin.cool/AoTarius?ext=heatmap&theme=light&site=cn" style="width: 100%; border-radius: 8px;">
   </picture>
 </div>
